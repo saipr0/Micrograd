@@ -7,6 +7,9 @@ Components implemented:
 - **Visualization** of Backpropogation using Graphviz
 - **Building a basic MLP**
 
+## Visualization
+![nn_math.png](nn_math.png)
+
 ## Credits:
 Followed the tutorial by Andrej Karpathy, check out his youtube channel- https://www.youtube.com/@AndrejKarpathy.
 This project is the first of his video series "Makemore", which i am gonna implement all and upload! 
